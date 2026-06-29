@@ -1,0 +1,17 @@
+player_id,name,role,batting_avg,strike_rate,boundary_pct,six_pct,bowling_econ,bowling_wicket_rate,extras_rate
+BAT_01,R. Sharma,Batsman,32.5,140.8,62.1,9.5,99.0,0.0,0.0
+BAT_02,V. Kohli,Batsman,48.7,138.2,51.4,4.2,99.0,0.0,0.0
+BAT_03,S. Gill,Batsman,29.4,135.5,54.0,5.1,99.0,0.0,0.0
+BAT_04,Y. Jaiswal,Batsman,36.2,160.3,66.8,11.2,99.0,0.0,0.0
+BAT_05,S. Iyer,Batsman,28.9,130.4,49.5,4.8,99.0,0.0,0.0
+WK_01,R. Pant,Wicketkeeper,30.1,126.5,53.2,6.4,99.0,0.0,0.0
+WK_02,S. Samson,Wicketkeeper,26.8,144.2,58.7,8.9,99.0,0.0,0.0
+WK_03,I. Kishan,Wicketkeeper,25.6,129.0,52.1,5.8,99.0,0.0,0.0
+AR_01,H. Pandya,Allrounder,25.4,139.5,55.2,7.1,8.15,6.2,3.1
+AR_02,A. Patel,Allrounder,24.1,122.8,44.5,4.0,7.20,5.5,1.8
+AR_03,R. Jadeja,Allrounder,21.5,125.2,42.1,3.8,7.12,4.8,1.5
+BOWL_01,J. Bumrah,Bowler,7.2,85.0,20.0,0.5,6.25,7.8,2.1
+BOWL_02,K. Yadav,Bowler,6.5,70.0,15.0,0.0,6.75,6.5,3.4
+BOWL_03,M. Siraj,Bowler,5.1,65.0,10.0,0.0,8.45,5.8,4.2
+BOWL_04,A. Singh,Bowler,5.5,75.0,12.0,0.2,8.20,6.8,4.8
+BOWL_05,Y. Chahal,Bowler,4.8,60.0,5.0,0.0,8.10,6.1,2.9
